@@ -3,8 +3,18 @@ body {
     color: black;
 }
 
-.dark-mode {
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.dark-grey {
     background-color: rgb(20, 20, 20);
+    color: rgb(200, 200, 200);
+}
+
+.dark-twitter {
+    background-color: rgb(21, 32, 43);
     color: rgb(200, 200, 200);
 }
 
@@ -22,6 +32,10 @@ body {
     position: fixed;
     right: 5px;
     top: 0px;
+}
+
+.dark-button:hover {
+    cursor: pointer;
 }
 
 .feed-item {

@@ -5,16 +5,22 @@
     <title>The Onion - Feed</title>
     <link rel="stylesheet" href="feed.css">
     <link rel="icon" type="image/ico" sizes="16x16" href="rss.ico">
-    <script>
-        function darkToggle() {
-            var element = document.body;
-            element.classList.toggle("dark-mode");
-        }
-    </script>
+    <script src="dark-toggle.js"></script>
 </head>
 
-<body>
+<body class="light-mode">
     <button onclick="darkToggle()" class="dark-button">☀</button>
+    
+    <article class="feed-item">
+        <h2 class="title-head">
+            <a class="title-link" href="link">LeBron James Buys Courtside Seat At Finals To Continue Arguing Foul Call From First Round</a>
+        </h2>
+        <p class="author-line"><i>By  on Jul 6th, 2021 at 11:00 PM</i></p>
+        <p class="summary-container">
+            <span class="summary">Read more...</span>
+        </p>
+        <p class="feed-title"><i>The Onion</i></p>
+    </article>
     
     <article class="feed-item">
         <h2 class="title-head">
@@ -276,17 +282,6 @@
         <p class="author-line"><i>By  on Jul 1st, 2021 at 07:16 PM</i></p>
         <p class="summary-container">
             <span class="summary">The spread of the Delta coronavirus variant is prompting renewed concerns about the dangers of Covid. The Onion answers the most important questions about the Delta Covid variant..Read more...</span>
-        </p>
-        <p class="feed-title"><i>The Onion</i></p>
-    </article>
-    
-    <article class="feed-item">
-        <h2 class="title-head">
-            <a class="title-link" href="link">Man Arrested For Stealing 21 Tons Of Pistachios</a>
-        </h2>
-        <p class="author-line"><i>By  on Jul 1st, 2021 at 06:00 PM</i></p>
-        <p class="summary-container">
-            <span class="summary">A California man has been arrested for allegedly stealing 21 tons of pistachio nuts valued at over $100,000 from an agricultural company, with authorities eventually finding the nuts hidden inside a nearby trailer and already packaged for resale. What do you think?Read more...</span>
         </p>
         <p class="feed-title"><i>The Onion</i></p>
     </article>

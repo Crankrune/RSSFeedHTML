@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Crankrune from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="FlarrowPorn Multi" title="FlarrowPorn Multi" type="rss" xmlUrl="https://reddit.com/r/FlarrowPorn+DCTVFap+LadiesofDC/.rss" htmlUrl="https://www.reddit.com/r/FlarrowPorn+DCTVFap+LadiesofDC/"/>
+    <outline text="theCHIVE » theCHIVE" title="theCHIVE » theCHIVE" type="rss" xmlUrl="http://feeds.feedburner.com/feedburner/ZdSV" htmlUrl="http://thechive.com/"/>
+    <outline text="Business &amp; Markets" title="Business &amp; Markets">
+      <outline text="Bloomberg" title="Bloomberg" type="rss" xmlUrl="http://www.newslookup.com/rss/business/bloomberg.rss" htmlUrl="http://www.bloomberg.com/"/>
+      <outline text="Business Insider" title="Business Insider" type="rss" xmlUrl="http://feeds2.feedburner.com/businessinsider" htmlUrl="http://www.businessinsider.com/"/>
+      <outline text="Forbes - Business" title="Forbes - Business" type="rss" xmlUrl="http://www.forbes.com/business/index.xml" htmlUrl="http://www.forbes.com/business/feed2/"/>
+      <outline text="MarketWatch.com - Top Stories" title="MarketWatch.com - Top Stories" type="rss" xmlUrl="http://www.marketwatch.com/rss/topstories" htmlUrl="http://www.marketwatch.com/"/>
+      <outline text="NYT &gt; Business Day" title="NYT &gt; Business Day" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="http://www.nytimes.com/pages/business/index.html?partner=rss&amp;emc=rss"/>
+      <outline text="Reuters: Business News" title="Reuters: Business News" type="rss" xmlUrl="http://feeds.reuters.com/reuters/businessNews" htmlUrl="http://www.reuters.com/"/>
+      <outline text="The Economist" title="The Economist" type="rss" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml" htmlUrl="http://www.economist.com/"/>
+    </outline>
+    <outline text="Canada News" title="Canada News">
+      <outline text="CBC | Canada News" title="CBC | Canada News" type="rss" xmlUrl="http://rss.cbc.ca/lineup/canada.xml" htmlUrl="http://www.cbc.ca/canada/?cmp=rss"/>
+      <outline text="CBC | Top Stories News" title="CBC | Top Stories News" type="rss" xmlUrl="http://rss.cbc.ca/lineup/topstories.xml" htmlUrl="http://www.cbc.ca/news/?cmp=rss"/>
+      <outline text="CBC | Toronto News" title="CBC | Toronto News" type="rss" xmlUrl="http://rss.cbc.ca/lineup/canada-toronto.xml" htmlUrl="http://www.cbc.ca/toronto/?cmp=rss"/>
+      <outline text="CTV News - Toronto" title="CTV News - Toronto" type="rss" xmlUrl="http://toronto.ctvnews.ca/rss/ctv-news-toronto-1.822319" htmlUrl="http://toronto.ctvnews.ca/rss/ctv-news-toronto-1.822319"/>
+      <outline text="CTVNews.ca - Top Stories - Public RSS" title="CTVNews.ca - Top Stories - Public RSS" type="rss" xmlUrl="http://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009" htmlUrl="http://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"/>
+      <outline text="Global News" title="Global News" type="rss" xmlUrl="https://globalnews.ca/feed/" htmlUrl="https://globalnews.ca/"/>
+      <outline text="Global News: Toronto" title="Global News: Toronto" type="rss" xmlUrl="https://globalnews.ca/toronto/feed/" htmlUrl="https://globalnews.ca/"/>
+    </outline>
+    <outline text="Comics" title="Comics">
+      <outline text="Ctrl+Alt+Del Comic" title="Ctrl+Alt+Del Comic" type="rss" xmlUrl="http://www.cad-comic.com/rss/rss.xml" htmlUrl="http://www.cad-comic.com/"/>
+      <outline text="Cyanide and Happiness" title="Cyanide and Happiness" type="rss" xmlUrl="http://explosm-feed.antonymale.co.uk/comics_feed" htmlUrl="http://www.explosm.net/comics"/>
+      <outline text="Dilbert Daily Strip" title="Dilbert Daily Strip" type="rss" xmlUrl="http://feeds.feedburner.com/DilbertDailyStrip" htmlUrl="http://dilbert.com/"/>
+      <outline text="Oglaf!" title="Oglaf!" type="rss" xmlUrl="http://oglaf.com/feeds/rss/" htmlUrl="http://oglaf.com/latest/"/>
+      <outline text="Poorly Drawn Lines" title="Poorly Drawn Lines" type="rss" xmlUrl="http://feeds.feedburner.com/PoorlyDrawnLines" htmlUrl="http://poorlydrawnlines.com/"/>
+      <outline text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" type="rss" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com/"/>
+      <outline text="xkcd" title="xkcd" type="rss" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline text="Fact Check" title="Fact Check">
+      <outline text="Fact Checks – Snopes.com" title="Fact Checks – Snopes.com" type="rss" xmlUrl="https://www.snopes.com/fact-check/feed/" htmlUrl="https://www.snopes.com/"/>
+      <outline text="FactCheck.org" title="FactCheck.org" type="rss" xmlUrl="http://www.factcheck.org/feed/" htmlUrl="http://www.factcheck.org/"/>
+      <outline text="Lead Stories" title="Lead Stories" type="rss" xmlUrl="http://leadstories.com/atom.xml" htmlUrl="http://leadstories.com/"/>
+      <outline text="Media Bias/Fact Checking" title="Media Bias/Fact Checking" type="rss" xmlUrl="https://mediabiasfactcheck.com/feed/" htmlUrl="https://mediabiasfactcheck.com/"/>
+      <outline text="Truth or Fiction?" title="Truth or Fiction?" type="rss" xmlUrl="http://www.truthorfiction.com/feed/" htmlUrl="http://www.truthorfiction.com/"/>
+      <outline text="WaPo Fact Checker" title="WaPo Fact Checker" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/rss_fact-checker" htmlUrl="http://www.washingtonpost.com/blogs/fact-checker"/>
+    </outline>
+    <outline text="Fun News" title="Fun News">
+      <outline text="BuzzFeed  - Latest" title="BuzzFeed  - Latest" type="rss" xmlUrl="http://www.buzzfeed.com/index.xml" htmlUrl="http://www.buzzfeed.com/"/>
+    </outline>
+    <outline text="Local News" title="Local News">
+      <outline text="&quot;Champaign, IL&quot; - Google News" title="&quot;Champaign, IL&quot; - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search/section/q/Champaign%2C%20IL/Champaign%2C%20IL?hl=en&amp;gl=US&amp;ned=us" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=Champaign,+IL"/>
+      <outline text="&quot;Urbana, IL&quot; - Google News" title="&quot;Urbana, IL&quot; - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search/section/q/Urbana%2C%20IL/Urbana%2C%20IL?hl=en&amp;gl=US&amp;ned=us" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=Urbana,+IL"/>
+    </outline>
+    <outline text="More News" title="More News">
+      <outline text="BBC News - US &amp; Canada" title="BBC News - US &amp; Canada" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" htmlUrl="http://www.bbc.co.uk/news/world/us_and_canada/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+      <outline text="BuzzFeed News" title="BuzzFeed News" type="rss" xmlUrl="http://www.buzzfeed.com/tech.xml" htmlUrl="http://www.buzzfeed.com/tech"/>
+      <outline text="Congress" title="Congress" type="rss" xmlUrl="http://www.politico.com/rss/congress.xml" htmlUrl="http://www.politico.com/"/>
+      <outline text="Energy &amp; Environment" title="Energy &amp; Environment" type="rss" xmlUrl="http://www.politico.com/rss/energy.xml" htmlUrl="http://www.politico.com/energy-and-environment"/>
+      <outline text="Health Care" title="Health Care" type="rss" xmlUrl="http://www.politico.com/rss/healthcare.xml" htmlUrl="http://www.politico.com/"/>
+      <outline text="National" title="National" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/national?tid=lk_inline_manual_11" htmlUrl="http://www.washingtonpost.com/pb/national/"/>
+      <outline text="National Security" title="National Security" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/world/national-security" htmlUrl="http://www.washingtonpost.com/world/national-security?wprss=rss_national-security"/>
+      <outline text="News | Euronews RSS" title="News | Euronews RSS" type="rss" xmlUrl="http://feeds.feedburner.com/euronews/en/home/" htmlUrl="http://www.euronews.com/"/>
+      <outline text="NYT &gt; Most Recent Headlines" title="NYT &gt; Most Recent Headlines" type="rss" xmlUrl="http://www.nytimes.com/timeswire/feeds/" htmlUrl="http://internal.du.nytimes.com/svc/news/v3/all/recent.rss"/>
+      <outline text="NYT &gt; U.S. News" title="NYT &gt; U.S. News" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" htmlUrl="https://www.nytimes.com/section/us?partner=rss&amp;emc=rss"/>
+      <outline text="Politics" title="Politics" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics?tid=lk_inline_manual_2" htmlUrl="http://www.washingtonpost.com/pb/politics/"/>
+      <outline text="The Hill: House" title="The Hill: House" type="rss" xmlUrl="http://thehill.com/taxonomy/term/1131/feed" htmlUrl="http://thehill.com/"/>
+      <outline text="The Hill: Senate" title="The Hill: Senate" type="rss" xmlUrl="http://thehill.com/taxonomy/term/1130/feed" htmlUrl="http://thehill.com/"/>
+      <outline text="TheHill - Most Popular" title="TheHill - Most Popular" type="rss" xmlUrl="http://thehill.com/rss/syndicator/19110" htmlUrl="http://thehill.com/rss/syndicator/19110"/>
+      <outline text="United States | The Guardian" title="United States | The Guardian" type="rss" xmlUrl="http://www.guardian.co.uk/world/usa/rss" htmlUrl="http://www.theguardian.com/world/usa"/>
+      <outline text="VICE" title="VICE" type="rss" xmlUrl="http://www.vice.com/rss" htmlUrl="http://www.vice.com/"/>
+      <outline text="White House" title="White House" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics/whitehouse" htmlUrl="http://www.washingtonpost.com/politics/whitehouse?wprss=rss_whitehouse"/>
+      <outline text="WSJ What’s News" title="WSJ What’s News" type="rss" xmlUrl="http://feeds.wsjonline.com/wsj/podcast_wall_street_journal_whats_news" htmlUrl="http://online.wsj.com/page/audio.html"/>
+    </outline>
+    <outline text="Network News" title="Network News">
+      <outline text="ABC News: Top Stories" title="ABC News: Top Stories" type="rss" xmlUrl="http://feeds.abcnews.com/abcnews/topstories" htmlUrl="http://abcnews.go.com/"/>
+      <outline text="Home - CBSNews.com" title="Home - CBSNews.com" type="rss" xmlUrl="http://www.cbsnews.com/feeds/rss/main.rss" htmlUrl="http://www.cbsnews.com/"/>
+      <outline text="NBC News Top Stories" title="NBC News Top Stories" type="rss" xmlUrl="http://feeds.nbcnews.com/nbcnews/public/news" htmlUrl="http://www.nbcnews.com/"/>
+    </outline>
+    <outline text="News" title="News">
+      <outline text="Associated Press News" title="Associated Press News" type="rss" xmlUrl="http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.apnews.com%2F&amp;in_id_or_class=&amp;url_contains=" htmlUrl="https://www.apnews.com/"/>
+      <outline text="News : NPR" title="News : NPR" type="rss" xmlUrl="https://www.npr.org/rss/rss.php?id=1002" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1001"/>
+      <outline text="PBS NewsHour - Headlines" title="PBS NewsHour - Headlines" type="rss" xmlUrl="https://www.pbs.org/newshour/feeds/rss/headlines" htmlUrl="https://www.pbs.org/newshour/"/>
+      <outline text="Reuters - Google News" title="Reuters - Google News" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US" htmlUrl="https://news.google.com/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US"/>
+    </outline>
+    <outline text="News by the Numbers" title="News by the Numbers">
+      <outline text="All Gallup Headlines" title="All Gallup Headlines" type="rss" xmlUrl="http://www.gallup.com/tag/All+Gallup+Headlines.rss" htmlUrl="http://www.gallup.com/"/>
+      <outline text="Axios" title="Axios" type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" htmlUrl="https://www.axios.com/"/>
+      <outline text="FiveThirtyEight" title="FiveThirtyEight" type="rss" xmlUrl="https://fivethirtyeight.com/features/feed/" htmlUrl="https://fivethirtyeight.com/"/>
+      <outline text="FiveThirtyEight » Politics | FiveThirtyEight" title="FiveThirtyEight » Politics | FiveThirtyEight" type="rss" xmlUrl="https://fivethirtyeight.com/politics/feed/" htmlUrl="http://fivethirtyeight.com/"/>
+      <outline text="Morning Consult" title="Morning Consult" type="rss" xmlUrl="http://themorningconsult.com/feed/" htmlUrl="http://themorningconsult.com/"/>
+      <outline text="Pew Research Center for the People and the Press" title="Pew Research Center for the People and the Press" type="rss" xmlUrl="https://www.people-press.org/feed/" htmlUrl="https://www.people-press.org"/>
+      <outline text="Pew Research Center: Internet, Science &amp; Tech" title="Pew Research Center: Internet, Science &amp; Tech" type="rss" xmlUrl="https://www.pewresearch.org/internet/feed/" htmlUrl="http://www.pewresearch.org/"/>
+      <outline text="Polling" title="Polling" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics/polling" htmlUrl="http://www.washingtonpost.com/politics/polling?wprss=rss_polling"/>
+      <outline text="ProPublica: Articles and Investigations" title="ProPublica: Articles and Investigations" type="rss" xmlUrl="http://feeds.propublica.org/propublica/main" htmlUrl="http://www.propublica.org/"/>
+      <outline text="Vox - All" title="Vox - All" type="rss" xmlUrl="http://www.vox.com/rss/index.xml" htmlUrl="http://www.vox.com/"/>
+    </outline>
+    <outline text="Opinions" title="Opinions">
+      <outline text="L.A. Times - Commentary" title="L.A. Times - Commentary" type="rss" xmlUrl="http://feeds.feedburner.com/latimes/news/opinion/commentary" htmlUrl="http://www.latimes.com/opinion/?track=rss"/>
+      <outline text="NYT &gt; Opinion" title="NYT &gt; Opinion" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml" htmlUrl="http://www.nytimes.com/pages/opinion/index.html?partner=rss&amp;emc=rss"/>
+      <outline text="Opinion : NPR" title="Opinion : NPR" type="rss" xmlUrl="http://www.npr.org/rss/rss.php?id=1057" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1057"/>
+      <outline text="Opinion | New York Post" title="Opinion | New York Post" type="rss" xmlUrl="http://www.nypost.com/rss/opinion.xml" htmlUrl="http://nypost.com/"/>
+      <outline text="Opinion | The Guardian" title="Opinion | The Guardian" type="rss" xmlUrl="http://feeds.theguardian.com/theguardian/us/commentisfree/rss" htmlUrl="http://www.theguardian.com/us/commentisfree"/>
+      <outline text="Opinions" title="Opinions" type="rss" xmlUrl="http://www.washingtonpost.com/wp-dyn/rss/linkset/2005/03/24/LI2005032402329.xml" htmlUrl="http://www.washingtonpost.com/?wprss=rss_todays-opeds"/>
+    </outline>
+    <outline text="Satire" title="Satire">
+      <outline text="Cracked: All Posts" title="Cracked: All Posts" type="rss" xmlUrl="http://feeds.feedburner.com/CrackedRSS" htmlUrl="http://www.cracked.com/"/>
+      <outline text="Funny or Die | Funny Videos, Funny Video Clips, Funny Pictures" title="Funny or Die | Funny Videos, Funny Video Clips, Funny Pictures" type="rss" xmlUrl="http://www.funnyordie.com/videos.rss" htmlUrl="http://www.funnyordie.com/"/>
+      <outline text="Hard Drive – The Hard Times" title="Hard Drive – The Hard Times" type="rss" xmlUrl="https://thehardtimes.net/harddrive/feed/" htmlUrl="https://thehardtimes.net/"/>
+      <outline text="The Hard Times" title="The Hard Times" type="rss" xmlUrl="http://thehardtimes.net/feed/" htmlUrl="http://thehardtimes.net/"/>
+      <outline text="The Onion" title="The Onion" type="rss" xmlUrl="http://www.theonion.com/content/feeds/daily" htmlUrl="http://www.theonion.com/"/>
+      <outline text="The Poke" title="The Poke" type="rss" xmlUrl="http://www.thepoke.co.uk/feed/" htmlUrl="http://www.thepoke.co.uk/"/>
+    </outline>
+    <outline text="Sports" title="Sports">
+      <outline text="Bleacher Report - NFL" title="Bleacher Report - NFL" type="rss" xmlUrl="http://bleacherreport.com/articles/feed?tag_id=16" htmlUrl="http://bleacherreport.com/"/>
+      <outline text="Bleacher Report - WWE" title="Bleacher Report - WWE" type="rss" xmlUrl="http://bleacherreport.com/articles/feed?tag_id=2182" htmlUrl="http://bleacherreport.com/"/>
+      <outline text="ESPN.com - NFL" title="ESPN.com - NFL" type="rss" xmlUrl="http://sports.espn.go.com/espn/rss/nfl/news" htmlUrl="http://espn.go.com/nfl/"/>
+    </outline>
+    <outline text="Tech News" title="Tech News">
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
+      <outline text="Engadget" title="Engadget" type="rss" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com/"/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
+      <outline text="Tubefilter" title="Tubefilter" type="rss" xmlUrl="http://feeds.feedburner.com/tubefilterNews/" htmlUrl="http://www.tubefilter.com/"/>
+    </outline>
+    <outline text="TV News" title="TV News">
+      <outline text="&quot;Green Arrow and The Canaries&quot; - Google News" title="&quot;Green Arrow and The Canaries&quot; - Google News" type="rss" xmlUrl="https://news.google.com/rss/search?q=Green%20Arrow%20and%20The%20Canaries&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=Green+Arrow+and+The+Canaries&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="Arrowverse - Google News" title="Arrowverse - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search/section/q/The%20Flash%20OR%20Legends%20of%20Tomorrow%20OR%20Supergirl%20OR%20Black%20Lighting%20OR%20Batwoman%20OR%20Superman%20%26%20Lois%20OR%20Green%20Arrow%20and%20The%20Canaries/The%20Flash%20OR%20Legends%20of%20Tomorrow%20OR%20Supergirl%20OR%20Black%20Lighting%20OR%20Batwoman%20OR%20Superman%20%26%20Lois%20OR%20Green%20Arrow%20and%20The%20Canaries?hl=en&amp;gl=US&amp;ned=us" htmlUrl="https://news.google.com/search?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;q=The+Flash+OR+Legends+of+Tomorrow+OR+Supergirl+OR+Black+Lighting+OR+Batwoman+OR+Superman+%26+Lois+OR+Green+Arrow+and+The+Canaries"/>
+      <outline text="Television – IndieWire" title="Television – IndieWire" type="rss" xmlUrl="http://www.indiewire.com/c/television/feed/" htmlUrl="http://www.indiewire.com/"/>
+      <outline text="TV – Variety" title="TV – Variety" type="rss" xmlUrl="http://variety.com/v/tv/feed/" htmlUrl="http://variety.com/"/>
+      <outline text="TV Series Finale" title="TV Series Finale" type="rss" xmlUrl="http://tvseriesfinale.com/feed/" htmlUrl="http://tvseriesfinale.com/"/>
+    </outline>
+    <outline text="World News" title="World News">
+      <outline text="BBC News - World" title="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="http://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+      <outline text="NYT &gt; World News" title="NYT &gt; World News" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
+      <outline text="World" title="World" type="rss" xmlUrl="http://www.washingtonpost.com/wp-dyn/rss/world/index.xml" htmlUrl="http://www.washingtonpost.com/world?wprss=rss_world"/>
+      <outline text="World news | The Guardian" title="World news | The Guardian" type="rss" xmlUrl="http://feeds.guardian.co.uk/theguardian/world/rss" htmlUrl="http://www.theguardian.com/world"/>
+      <outline text="WSJ.com: World News" title="WSJ.com: World News" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
+    </outline>
+  </body>
+</opml>

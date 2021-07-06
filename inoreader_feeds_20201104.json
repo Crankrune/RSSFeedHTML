@@ -1,0 +1,566 @@
+{
+    "\"Champaign, IL\" - Google News": {
+        "htmlUrl": "https://news.google.com/search?hl=en-US&gl=US&ceid=US:en&q=Champaign,+IL",
+        "text": "\"Champaign, IL\" - Google News",
+        "type": "rss",
+        "xmlUrl": "https://news.google.com/news/rss/search/section/q/Champaign%2C%20IL/Champaign%2C%20IL?hl=en&gl=US&ned=us"
+    },
+    "\"Green Arrow and The Canaries\" - Google News": {
+        "htmlUrl": "https://news.google.com/search?q=Green+Arrow+and+The+Canaries&hl=en-US&gl=US&ceid=US:en",
+        "text": "\"Green Arrow and The Canaries\" - Google News",
+        "type": "rss",
+        "xmlUrl": "https://news.google.com/rss/search?q=Green%20Arrow%20and%20The%20Canaries&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    "\"Urbana, IL\" - Google News": {
+        "htmlUrl": "https://news.google.com/search?hl=en-US&gl=US&ceid=US:en&q=Urbana,+IL",
+        "text": "\"Urbana, IL\" - Google News",
+        "type": "rss",
+        "xmlUrl": "https://news.google.com/news/rss/search/section/q/Urbana%2C%20IL/Urbana%2C%20IL?hl=en&gl=US&ned=us"
+    },
+    "ABC News: Top Stories": {
+        "htmlUrl": "http://abcnews.go.com/",
+        "text": "ABC News: Top Stories",
+        "type": "rss",
+        "xmlUrl": "http://feeds.abcnews.com/abcnews/topstories"
+    },
+    "All Gallup Headlines": {
+        "htmlUrl": "http://www.gallup.com/",
+        "text": "All Gallup Headlines",
+        "type": "rss",
+        "xmlUrl": "http://www.gallup.com/tag/All+Gallup+Headlines.rss"
+    },
+    "Arrowverse - Google News": {
+        "htmlUrl": "https://news.google.com/search?hl=en-US&gl=US&ceid=US:en&q=The+Flash+OR+Legends+of+Tomorrow+OR+Supergirl+OR+Black+Lighting+OR+Batwoman+OR+Superman+%26+Lois+OR+Green+Arrow+and+The+Canaries",
+        "text": "Arrowverse - Google News",
+        "type": "rss",
+        "xmlUrl": "https://news.google.com/news/rss/search/section/q/The%20Flash%20OR%20Legends%20of%20Tomorrow%20OR%20Supergirl%20OR%20Black%20Lighting%20OR%20Batwoman%20OR%20Superman%20%26%20Lois%20OR%20Green%20Arrow%20and%20The%20Canaries/The%20Flash%20OR%20Legends%20of%20Tomorrow%20OR%20Supergirl%20OR%20Black%20Lighting%20OR%20Batwoman%20OR%20Superman%20%26%20Lois%20OR%20Green%20Arrow%20and%20The%20Canaries?hl=en&gl=US&ned=us"
+    },
+    "Ars Technica": {
+        "htmlUrl": "http://arstechnica.com/",
+        "text": "Ars Technica",
+        "type": "rss",
+        "xmlUrl": "http://feeds.arstechnica.com/arstechnica/index"
+    },
+    "Associated Press News": {
+        "htmlUrl": "https://www.apnews.com/",
+        "text": "Associated Press News",
+        "type": "rss",
+        "xmlUrl": "http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.apnews.com%2F&in_id_or_class=&url_contains="
+    },
+    "Axios": {
+        "htmlUrl": "https://www.axios.com/",
+        "text": "Axios",
+        "type": "rss",
+        "xmlUrl": "https://www.axios.com/feeds/feed.rss"
+    },
+    "BBC News - US & Canada": {
+        "htmlUrl": "http://www.bbc.co.uk/news/world/us_and_canada/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa",
+        "text": "BBC News - US & Canada",
+        "type": "rss",
+        "xmlUrl": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+    },
+    "BBC News - World": {
+        "htmlUrl": "http://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa",
+        "text": "BBC News - World",
+        "type": "rss",
+        "xmlUrl": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    "Bleacher Report - NFL": {
+        "htmlUrl": "http://bleacherreport.com/",
+        "text": "Bleacher Report - NFL",
+        "type": "rss",
+        "xmlUrl": "http://bleacherreport.com/articles/feed?tag_id=16"
+    },
+    "Bleacher Report - WWE": {
+        "htmlUrl": "http://bleacherreport.com/",
+        "text": "Bleacher Report - WWE",
+        "type": "rss",
+        "xmlUrl": "http://bleacherreport.com/articles/feed?tag_id=2182"
+    },
+    "Bloomberg": {
+        "htmlUrl": "http://www.bloomberg.com/",
+        "text": "Bloomberg",
+        "type": "rss",
+        "xmlUrl": "http://www.newslookup.com/rss/business/bloomberg.rss"
+    },
+    "Business Insider": {
+        "htmlUrl": "http://www.businessinsider.com/",
+        "text": "Business Insider",
+        "type": "rss",
+        "xmlUrl": "http://feeds2.feedburner.com/businessinsider"
+    },
+    "BuzzFeed  - Latest": {
+        "htmlUrl": "http://www.buzzfeed.com/",
+        "text": "BuzzFeed  - Latest",
+        "type": "rss",
+        "xmlUrl": "http://www.buzzfeed.com/index.xml"
+    },
+    "BuzzFeed News": {
+        "htmlUrl": "http://www.buzzfeed.com/tech",
+        "text": "BuzzFeed News",
+        "type": "rss",
+        "xmlUrl": "http://www.buzzfeed.com/tech.xml"
+    },
+    "CBC | Canada News": {
+        "htmlUrl": "http://www.cbc.ca/canada/?cmp=rss",
+        "text": "CBC | Canada News",
+        "type": "rss",
+        "xmlUrl": "http://rss.cbc.ca/lineup/canada.xml"
+    },
+    "CBC | Top Stories News": {
+        "htmlUrl": "http://www.cbc.ca/news/?cmp=rss",
+        "text": "CBC | Top Stories News",
+        "type": "rss",
+        "xmlUrl": "http://rss.cbc.ca/lineup/topstories.xml"
+    },
+    "CBC | Toronto News": {
+        "htmlUrl": "http://www.cbc.ca/toronto/?cmp=rss",
+        "text": "CBC | Toronto News",
+        "type": "rss",
+        "xmlUrl": "http://rss.cbc.ca/lineup/canada-toronto.xml"
+    },
+    "CTV News - Toronto": {
+        "htmlUrl": "http://toronto.ctvnews.ca/rss/ctv-news-toronto-1.822319",
+        "text": "CTV News - Toronto",
+        "type": "rss",
+        "xmlUrl": "http://toronto.ctvnews.ca/rss/ctv-news-toronto-1.822319"
+    },
+    "CTVNews.ca - Top Stories - Public RSS": {
+        "htmlUrl": "http://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+        "text": "CTVNews.ca - Top Stories - Public RSS",
+        "type": "rss",
+        "xmlUrl": "http://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
+    },
+    "Congress": {
+        "htmlUrl": "http://www.politico.com/",
+        "text": "Congress",
+        "type": "rss",
+        "xmlUrl": "http://www.politico.com/rss/congress.xml"
+    },
+    "Cracked: All Posts": {
+        "htmlUrl": "http://www.cracked.com/",
+        "text": "Cracked: All Posts",
+        "type": "rss",
+        "xmlUrl": "http://feeds.feedburner.com/CrackedRSS"
+    },
+    "Ctrl+Alt+Del Comic": {
+        "htmlUrl": "http://www.cad-comic.com/",
+        "text": "Ctrl+Alt+Del Comic",
+        "type": "rss",
+        "xmlUrl": "http://www.cad-comic.com/rss/rss.xml"
+    },
+    "Cyanide and Happiness": {
+        "htmlUrl": "http://www.explosm.net/comics",
+        "text": "Cyanide and Happiness",
+        "type": "rss",
+        "xmlUrl": "http://explosm-feed.antonymale.co.uk/comics_feed"
+    },
+    "Dilbert Daily Strip": {
+        "htmlUrl": "http://dilbert.com/",
+        "text": "Dilbert Daily Strip",
+        "type": "rss",
+        "xmlUrl": "http://feeds.feedburner.com/DilbertDailyStrip"
+    },
+    "ESPN.com - NFL": {
+        "htmlUrl": "http://espn.go.com/nfl/",
+        "text": "ESPN.com - NFL",
+        "type": "rss",
+        "xmlUrl": "http://sports.espn.go.com/espn/rss/nfl/news"
+    },
+    "Energy & Environment": {
+        "htmlUrl": "http://www.politico.com/energy-and-environment",
+        "text": "Energy & Environment",
+        "type": "rss",
+        "xmlUrl": "http://www.politico.com/rss/energy.xml"
+    },
+    "Engadget": {
+        "htmlUrl": "http://www.engadget.com/",
+        "text": "Engadget",
+        "type": "rss",
+        "xmlUrl": "http://www.engadget.com/rss.xml"
+    },
+    "Fact Checks \u2013 Snopes.com": {
+        "htmlUrl": "https://www.snopes.com/",
+        "text": "Fact Checks \u2013 Snopes.com",
+        "type": "rss",
+        "xmlUrl": "https://www.snopes.com/fact-check/feed/"
+    },
+    "FactCheck.org": {
+        "htmlUrl": "http://www.factcheck.org/",
+        "text": "FactCheck.org",
+        "type": "rss",
+        "xmlUrl": "http://www.factcheck.org/feed/"
+    },
+    "FiveThirtyEight": {
+        "htmlUrl": "https://fivethirtyeight.com/",
+        "text": "FiveThirtyEight",
+        "type": "rss",
+        "xmlUrl": "https://fivethirtyeight.com/features/feed/"
+    },
+    "FiveThirtyEight \u00bb Politics | FiveThirtyEight": {
+        "htmlUrl": "http://fivethirtyeight.com/",
+        "text": "FiveThirtyEight \u00bb Politics | FiveThirtyEight",
+        "type": "rss",
+        "xmlUrl": "https://fivethirtyeight.com/politics/feed/"
+    },
+    "Forbes - Business": {
+        "htmlUrl": "http://www.forbes.com/business/feed2/",
+        "text": "Forbes - Business",
+        "type": "rss",
+        "xmlUrl": "http://www.forbes.com/business/index.xml"
+    },
+    "Funny or Die | Funny Videos, Funny Video Clips, Funny Pictures": {
+        "htmlUrl": "http://www.funnyordie.com/",
+        "text": "Funny or Die | Funny Videos, Funny Video Clips, Funny Pictures",
+        "type": "rss",
+        "xmlUrl": "http://www.funnyordie.com/videos.rss"
+    },
+    "Global News": {
+        "htmlUrl": "https://globalnews.ca/",
+        "text": "Global News",
+        "type": "rss",
+        "xmlUrl": "https://globalnews.ca/feed/"
+    },
+    "Global News: Toronto": {
+        "htmlUrl": "https://globalnews.ca/",
+        "text": "Global News: Toronto",
+        "type": "rss",
+        "xmlUrl": "https://globalnews.ca/toronto/feed/"
+    },
+    "Hard Drive \u2013 The Hard Times": {
+        "htmlUrl": "https://thehardtimes.net/",
+        "text": "Hard Drive \u2013 The Hard Times",
+        "type": "rss",
+        "xmlUrl": "https://thehardtimes.net/harddrive/feed/"
+    },
+    "Health Care": {
+        "htmlUrl": "http://www.politico.com/",
+        "text": "Health Care",
+        "type": "rss",
+        "xmlUrl": "http://www.politico.com/rss/healthcare.xml"
+    },
+    "Home - CBSNews.com": {
+        "htmlUrl": "http://www.cbsnews.com/",
+        "text": "Home - CBSNews.com",
+        "type": "rss",
+        "xmlUrl": "http://www.cbsnews.com/feeds/rss/main.rss"
+    },
+    "L.A. Times - Commentary": {
+        "htmlUrl": "http://www.latimes.com/opinion/?track=rss",
+        "text": "L.A. Times - Commentary",
+        "type": "rss",
+        "xmlUrl": "http://feeds.feedburner.com/latimes/news/opinion/commentary"
+    },
+    "Lead Stories": {
+        "htmlUrl": "http://leadstories.com/",
+        "text": "Lead Stories",
+        "type": "rss",
+        "xmlUrl": "http://leadstories.com/atom.xml"
+    },
+    "MarketWatch.com - Top Stories": {
+        "htmlUrl": "http://www.marketwatch.com/",
+        "text": "MarketWatch.com - Top Stories",
+        "type": "rss",
+        "xmlUrl": "http://www.marketwatch.com/rss/topstories"
+    },
+    "Media Bias/Fact Checking": {
+        "htmlUrl": "https://mediabiasfactcheck.com/",
+        "text": "Media Bias/Fact Checking",
+        "type": "rss",
+        "xmlUrl": "https://mediabiasfactcheck.com/feed/"
+    },
+    "Morning Consult": {
+        "htmlUrl": "http://themorningconsult.com/",
+        "text": "Morning Consult",
+        "type": "rss",
+        "xmlUrl": "http://themorningconsult.com/feed/"
+    },
+    "NBC News Top Stories": {
+        "htmlUrl": "http://www.nbcnews.com/",
+        "text": "NBC News Top Stories",
+        "type": "rss",
+        "xmlUrl": "http://feeds.nbcnews.com/nbcnews/public/news"
+    },
+    "NYT > Business Day": {
+        "htmlUrl": "http://www.nytimes.com/pages/business/index.html?partner=rss&emc=rss",
+        "text": "NYT > Business Day",
+        "type": "rss",
+        "xmlUrl": "http://www.nytimes.com/services/xml/rss/nyt/Business.xml"
+    },
+    "NYT > Most Recent Headlines": {
+        "htmlUrl": "http://internal.du.nytimes.com/svc/news/v3/all/recent.rss",
+        "text": "NYT > Most Recent Headlines",
+        "type": "rss",
+        "xmlUrl": "http://www.nytimes.com/timeswire/feeds/"
+    },
+    "NYT > Opinion": {
+        "htmlUrl": "http://www.nytimes.com/pages/opinion/index.html?partner=rss&emc=rss",
+        "text": "NYT > Opinion",
+        "type": "rss",
+        "xmlUrl": "http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml"
+    },
+    "NYT > U.S. News": {
+        "htmlUrl": "https://www.nytimes.com/section/us?partner=rss&emc=rss",
+        "text": "NYT > U.S. News",
+        "type": "rss",
+        "xmlUrl": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+    },
+    "NYT > World News": {
+        "htmlUrl": "http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
+        "text": "NYT > World News",
+        "type": "rss",
+        "xmlUrl": "http://www.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    "National": {
+        "htmlUrl": "http://www.washingtonpost.com/pb/national/",
+        "text": "National",
+        "type": "rss",
+        "xmlUrl": "http://feeds.washingtonpost.com/rss/national?tid=lk_inline_manual_11"
+    },
+    "National Security": {
+        "htmlUrl": "http://www.washingtonpost.com/world/national-security?wprss=rss_national-security",
+        "text": "National Security",
+        "type": "rss",
+        "xmlUrl": "http://feeds.washingtonpost.com/rss/world/national-security"
+    },
+    "News : NPR": {
+        "htmlUrl": "http://www.npr.org/templates/story/story.php?storyId=1001",
+        "text": "News : NPR",
+        "type": "rss",
+        "xmlUrl": "https://www.npr.org/rss/rss.php?id=1002"
+    },
+    "News | Euronews RSS": {
+        "htmlUrl": "http://www.euronews.com/",
+        "text": "News | Euronews RSS",
+        "type": "rss",
+        "xmlUrl": "http://feeds.feedburner.com/euronews/en/home/"
+    },
+    "Oglaf!": {
+        "htmlUrl": "http://oglaf.com/latest/",
+        "text": "Oglaf!",
+        "type": "rss",
+        "xmlUrl": "http://oglaf.com/feeds/rss/"
+    },
+    "Opinion : NPR": {
+        "htmlUrl": "http://www.npr.org/templates/story/story.php?storyId=1057",
+        "text": "Opinion : NPR",
+        "type": "rss",
+        "xmlUrl": "http://www.npr.org/rss/rss.php?id=1057"
+    },
+    "Opinion | New York Post": {
+        "htmlUrl": "http://nypost.com/",
+        "text": "Opinion | New York Post",
+        "type": "rss",
+        "xmlUrl": "http://www.nypost.com/rss/opinion.xml"
+    },
+    "Opinion | The Guardian": {
+        "htmlUrl": "http://www.theguardian.com/us/commentisfree",
+        "text": "Opinion | The Guardian",
+        "type": "rss",
+        "xmlUrl": "http://feeds.theguardian.com/theguardian/us/commentisfree/rss"
+    },
+    "Opinions": {
+        "htmlUrl": "http://www.washingtonpost.com/?wprss=rss_todays-opeds",
+        "text": "Opinions",
+        "type": "rss",
+        "xmlUrl": "http://www.washingtonpost.com/wp-dyn/rss/linkset/2005/03/24/LI2005032402329.xml"
+    },
+    "PBS NewsHour - Headlines": {
+        "htmlUrl": "https://www.pbs.org/newshour/",
+        "text": "PBS NewsHour - Headlines",
+        "type": "rss",
+        "xmlUrl": "https://www.pbs.org/newshour/feeds/rss/headlines"
+    },
+    "Pew Research Center for the People and the Press": {
+        "htmlUrl": "https://www.people-press.org",
+        "text": "Pew Research Center for the People and the Press",
+        "type": "rss",
+        "xmlUrl": "https://www.people-press.org/feed/"
+    },
+    "Pew Research Center: Internet, Science & Tech": {
+        "htmlUrl": "http://www.pewresearch.org/",
+        "text": "Pew Research Center: Internet, Science & Tech",
+        "type": "rss",
+        "xmlUrl": "https://www.pewresearch.org/internet/feed/"
+    },
+    "Politics": {
+        "htmlUrl": "http://www.washingtonpost.com/pb/politics/",
+        "text": "Politics",
+        "type": "rss",
+        "xmlUrl": "http://feeds.washingtonpost.com/rss/politics?tid=lk_inline_manual_2"
+    },
+    "Polling": {
+        "htmlUrl": "http://www.washingtonpost.com/politics/polling?wprss=rss_polling",
+        "text": "Polling",
+        "type": "rss",
+        "xmlUrl": "http://feeds.washingtonpost.com/rss/politics/polling"
+    },
+    "Poorly Drawn Lines": {
+        "htmlUrl": "http://poorlydrawnlines.com/",
+        "text": "Poorly Drawn Lines",
+        "type": "rss",
+        "xmlUrl": "http://feeds.feedburner.com/PoorlyDrawnLines"
+    },
+    "ProPublica: Articles and Investigations": {
+        "htmlUrl": "http://www.propublica.org/",
+        "text": "ProPublica: Articles and Investigations",
+        "type": "rss",
+        "xmlUrl": "http://feeds.propublica.org/propublica/main"
+    },
+    "Reuters - Google News": {
+        "htmlUrl": "https://news.google.com/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US",
+        "text": "Reuters - Google News",
+        "type": "rss",
+        "xmlUrl": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US"
+    },
+    "Reuters: Business News": {
+        "htmlUrl": "http://www.reuters.com/",
+        "text": "Reuters: Business News",
+        "type": "rss",
+        "xmlUrl": "http://feeds.reuters.com/reuters/businessNews"
+    },
+    "Saturday Morning Breakfast Cereal": {
+        "htmlUrl": "http://www.smbc-comics.com/",
+        "text": "Saturday Morning Breakfast Cereal",
+        "type": "rss",
+        "xmlUrl": "http://www.smbc-comics.com/rss.php"
+    },
+    "TV Series Finale": {
+        "htmlUrl": "http://tvseriesfinale.com/",
+        "text": "TV Series Finale",
+        "type": "rss",
+        "xmlUrl": "http://tvseriesfinale.com/feed/"
+    },
+    "TV \u2013 Variety": {
+        "htmlUrl": "http://variety.com/",
+        "text": "TV \u2013 Variety",
+        "type": "rss",
+        "xmlUrl": "http://variety.com/v/tv/feed/"
+    },
+    "Television \u2013 IndieWire": {
+        "htmlUrl": "http://www.indiewire.com/",
+        "text": "Television \u2013 IndieWire",
+        "type": "rss",
+        "xmlUrl": "http://www.indiewire.com/c/television/feed/"
+    },
+    "The Economist": {
+        "htmlUrl": "http://www.economist.com/",
+        "text": "The Economist",
+        "type": "rss",
+        "xmlUrl": "http://www.economist.com/rss/the_world_this_week_rss.xml"
+    },
+    "The Hard Times": {
+        "htmlUrl": "http://thehardtimes.net/",
+        "text": "The Hard Times",
+        "type": "rss",
+        "xmlUrl": "http://thehardtimes.net/feed/"
+    },
+    "The Hill: House": {
+        "htmlUrl": "http://thehill.com/",
+        "text": "The Hill: House",
+        "type": "rss",
+        "xmlUrl": "http://thehill.com/taxonomy/term/1131/feed"
+    },
+    "The Hill: Senate": {
+        "htmlUrl": "http://thehill.com/",
+        "text": "The Hill: Senate",
+        "type": "rss",
+        "xmlUrl": "http://thehill.com/taxonomy/term/1130/feed"
+    },
+    "The Onion": {
+        "htmlUrl": "http://www.theonion.com/",
+        "text": "The Onion",
+        "type": "rss",
+        "xmlUrl": "http://www.theonion.com/content/feeds/daily"
+    },
+    "The Poke": {
+        "htmlUrl": "http://www.thepoke.co.uk/",
+        "text": "The Poke",
+        "type": "rss",
+        "xmlUrl": "http://www.thepoke.co.uk/feed/"
+    },
+    "The Verge": {
+        "htmlUrl": "http://www.theverge.com/",
+        "text": "The Verge",
+        "type": "rss",
+        "xmlUrl": "http://www.theverge.com/rss/index.xml"
+    },
+    "TheHill - Most Popular": {
+        "htmlUrl": "http://thehill.com/rss/syndicator/19110",
+        "text": "TheHill - Most Popular",
+        "type": "rss",
+        "xmlUrl": "http://thehill.com/rss/syndicator/19110"
+    },
+    "Truth or Fiction?": {
+        "htmlUrl": "http://www.truthorfiction.com/",
+        "text": "Truth or Fiction?",
+        "type": "rss",
+        "xmlUrl": "http://www.truthorfiction.com/feed/"
+    },
+    "Tubefilter": {
+        "htmlUrl": "http://www.tubefilter.com/",
+        "text": "Tubefilter",
+        "type": "rss",
+        "xmlUrl": "http://feeds.feedburner.com/tubefilterNews/"
+    },
+    "United States | The Guardian": {
+        "htmlUrl": "http://www.theguardian.com/world/usa",
+        "text": "United States | The Guardian",
+        "type": "rss",
+        "xmlUrl": "http://www.guardian.co.uk/world/usa/rss"
+    },
+    "VICE": {
+        "htmlUrl": "http://www.vice.com/",
+        "text": "VICE",
+        "type": "rss",
+        "xmlUrl": "http://www.vice.com/rss"
+    },
+    "Vox - All": {
+        "htmlUrl": "http://www.vox.com/",
+        "text": "Vox - All",
+        "type": "rss",
+        "xmlUrl": "http://www.vox.com/rss/index.xml"
+    },
+    "WSJ What\u2019s News": {
+        "htmlUrl": "http://online.wsj.com/page/audio.html",
+        "text": "WSJ What\u2019s News",
+        "type": "rss",
+        "xmlUrl": "http://feeds.wsjonline.com/wsj/podcast_wall_street_journal_whats_news"
+    },
+    "WSJ.com: World News": {
+        "htmlUrl": "http://online.wsj.com/page/2_0006.html",
+        "text": "WSJ.com: World News",
+        "type": "rss",
+        "xmlUrl": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    },
+    "WaPo Fact Checker": {
+        "htmlUrl": "http://www.washingtonpost.com/blogs/fact-checker",
+        "text": "WaPo Fact Checker",
+        "type": "rss",
+        "xmlUrl": "http://feeds.washingtonpost.com/rss/rss_fact-checker"
+    },
+    "White House": {
+        "htmlUrl": "http://www.washingtonpost.com/politics/whitehouse?wprss=rss_whitehouse",
+        "text": "White House",
+        "type": "rss",
+        "xmlUrl": "http://feeds.washingtonpost.com/rss/politics/whitehouse"
+    },
+    "World": {
+        "htmlUrl": "http://www.washingtonpost.com/world?wprss=rss_world",
+        "text": "World",
+        "type": "rss",
+        "xmlUrl": "http://www.washingtonpost.com/wp-dyn/rss/world/index.xml"
+    },
+    "World news | The Guardian": {
+        "htmlUrl": "http://www.theguardian.com/world",
+        "text": "World news | The Guardian",
+        "type": "rss",
+        "xmlUrl": "http://feeds.guardian.co.uk/theguardian/world/rss"
+    },
+    "xkcd": {
+        "htmlUrl": "http://xkcd.com/",
+        "text": "xkcd",
+        "type": "rss",
+        "xmlUrl": "http://xkcd.com/rss.xml"
+    }
+}
